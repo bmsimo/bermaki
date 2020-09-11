@@ -7,11 +7,6 @@ src
 .eslintrc
 .babelrc
 .prettierrc
-.postcss.config.js
-webpack.config.common.js
-webpack.config.config.js
-webpack.config.dev.js
-webpack.config.prod.js
 package.json
 package-lock.json
 .DS_Store
@@ -20,3 +15,4 @@ webpack.config.js
 webpack.dev.js
 webpack.prod.js
 postcss.config.js
+node_modules
