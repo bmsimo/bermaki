@@ -1,0 +1,10 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Mohamed Bermaki -- Front-end Developer -- @simobm
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, SCSS, HTML5, Webpack, Babel, Sanitize.css, mailgo, terser,postcss,eslint
