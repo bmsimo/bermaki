@@ -1,0 +1,17 @@
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+# Useful .gitignore templates: https://github.com/github/gitignore
+node_modules
+src
+.cache
+.eslintrc
+.babelrc
+.prettierrc
+.postcss.config.js
+webpack.config.common.js
+webpack.config.config.js
+webpack.config.dev.js
+webpack.config.prod.js
+package.json
+package-lock.json
+.DS_Store
